@@ -1,0 +1,5 @@
+BlinkIT-Dashboard/
+│
+├── BlinkIT Dashboard.pbix       # Power BI Dashboard file
+├── README.md                     # Project Documentation
+└── data/                         # (Optional) Raw & cleaned datasets
