@@ -6,7 +6,7 @@ This project is an interactive Power BI dashboard designed to analyze BlinkIT’
 
 ________________________________________
 **Contents**
-1. [Home View] ["C:\Users\sheri\Videos\Captures\Home View.png"]
+1. [Home View] [.github/HomeView]
 ________________________________________
 🛠️ **Tools & Methods Used**
 
