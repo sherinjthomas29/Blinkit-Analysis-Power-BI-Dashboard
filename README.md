@@ -1,10 +1,10 @@
-**BlinkIT Sales & Performance Dashboard** 📊
+# **BlinkIT Sales & Performance Dashboard** 📊
 
-📌 **Project Overview**
+## 📌 **Project Overview**
 
 This project is an interactive Power BI dashboard designed to analyze BlinkIT’s sales performance, customer behavior, and operational efficiency. The dashboard helps stakeholders quickly identify trends, track KPIs, and make data-driven business decisions.
 ________________________________________
-🛠️ **Tools & Methods Used**
+## 🛠️ **Tools & Methods Used**
 
 **Tools**
 
@@ -43,7 +43,7 @@ o	Donut/Pie charts for category contribution analysis
 o	Slicers & filters for interactive drilldowns
 
 ________________________________________
-📊 **Key Insights & Interpretation**
+## 📊 **Key Insights & Interpretation**
 
 1.	**Sales Trends**
 
@@ -65,7 +65,7 @@ o	Certain regions show underperformance, possibly due to low market penetration 
 o	High order fulfillment rates, but delivery time variability in certain locations.
 
 ________________________________________
-💡 **Business Recommendations**
+## 💡 **Business Recommendations**
 
 1.	**Marketing & Sales**
 
@@ -84,7 +84,7 @@ o	Optimize supply chain for underperforming categories.
 
 ________________________________________
 
-🏁 **Conclusion**
+## 🏁 **Conclusion**
 
 BlinkIT has the demand, the loyal customers, and the data advantage—we just need to act on it.
 By turning these insights into targeted action, we can drive faster growth, higher profits, and an unbeatable customer experience.
